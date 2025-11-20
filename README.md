@@ -2,8 +2,8 @@
 
 NeuroBloom is an interactive, multimodal AI platform for children to learn, play, and explore creatively.
 
-## Demo Video
-[![Watch NeuroBloom Demo](https://github.com/Varsh-AI/NeuroBloom/raw/main/NeuroBloom.mp4)](https://github.com/Varsh-AI/NeuroBloom/blob/main/Neuro_Bloom.mp4)
+## Demo Video  
+[![Watch NeuroBloom Demo](https://img.youtube.com/vi/g-iqOEwAeWM/0.jpg)](https://youtu.be/g-iqOEwAeWM?si=rImhlTkfrJJBPsZ4)
 
 ## Features
 - **Chatbot**: Kids can chat with NeuroBloom in a safe environment.  
