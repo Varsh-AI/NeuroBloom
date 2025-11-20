@@ -1,2 +1,18 @@
-# NeuroBloom
-NeuroBloom is an interactive, multimodal AI platform designed for children to learn, play, and explore creatively. It combines storytelling, image generation, text-to-speech, and interactive quizzes into a single, engaging experience.
+# NeuroBloom – AI Companion for Kids
+
+NeuroBloom is an interactive, multimodal AI platform for children to learn, play, and explore creatively.
+
+## Features
+- Chatbot: Kids can chat with NeuroBloom in a safe environment.
+- Story Generator: Create magical, age-appropriate stories.
+- Image Generation: Generate illustrations for stories using AI.
+- Read-Aloud (TTS): Stories can be read aloud with natural-sounding voice.
+- Quiz Creator: Automatically generates quizzes based on stories.
+
+## Technologies Used
+- Python, Streamlit
+- Groq Llama-3, OpenAI DALL·E / Google Gemini
+- gTTS, Pillow, Requests
+
+## Purpose
+Fosters creativity, learning, and interactive fun for children.
