@@ -13,9 +13,10 @@ NeuroBloom is an interactive, multimodal AI platform for children to learn, play
 - **Quiz Creator**: Automatically generates quizzes based on stories.  
 
 ## Technologies Used
-- Python, Streamlit  
-- Groq Llama-3, OpenAI DALL·E / Google Gemini  
-- gTTS, Pillow, Requests  
+- Python, Streamlit
+- Groq Llama-3 (text generation)
+- Stability AI / Stable Diffusion (image generation)
+- gTTS (text-to-speech)
 
 ## Purpose
 Fosters creativity, learning, and interactive fun for children.
