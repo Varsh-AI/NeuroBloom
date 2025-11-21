@@ -1,6 +1,6 @@
 # NeuroBloom – AI Companion for Kids
 
-NeuroBloom is an interactive, multimodal AI platform for children to learn, play, and explore creatively.
+NeuroBloom is an interactive, multimodal AI platform for children to learn, and explore creatively.
 
 ## Demo Video  
 [![Watch NeuroBloom Demo](https://img.youtube.com/vi/g-iqOEwAeWM/0.jpg)](https://youtu.be/g-iqOEwAeWM?si=rImhlTkfrJJBPsZ4)
